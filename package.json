@@ -1,0 +1,16 @@
+{
+  "name": "@plugga-tech/javascript-basics-template",
+  "version": "1.0.0",
+  "description": "Stundenten skriver grundläggande funktioner i javascript.",
+  "keywords": [],
+  "author": "Plugga Tech",
+  "license": "ISC",
+  "scripts": {
+    "test": "vitest -c ./config/vitest.config.js"
+  },
+  "devDependencies": {
+    "@plugga-tech/javascript-basics": "^1.0.2",
+    "jsdom": "^20.0.1",
+    "vitest": "^0.23.1"
+  }
+}
